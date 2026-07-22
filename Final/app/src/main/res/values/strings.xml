@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">스마트 포트폴리오</string>
+    <string name="Studying">-Java\n-JS\n-JavaScript\n-Kotlin</string>
+    <string name="url">https://github.com/kddong99/PORTFOLIO</string>
+
+    <string-array name="titles">
+        <item>자기 소개</item>
+        <item>포트폴리오</item>
+        <item>희망 직종</item>
+    </string-array>
+
+    <integer-array name="images">
+        <item>@drawable/selfie</item>
+        <item>@drawable/selfie</item>
+        <item>@drawable/selfie</item>
+    </integer-array>
+
+    <string-array name="contents">
+        <item>
+            - 이름 : 김상준\n
+            - 생년월일 : 1999.11.21\n
+            - 학교 : 한림대학교\n
+            - 전공 : 빅데이터전공\n
+            - 복수전공 : 콘텐츠it\n
+            - 특이사항 : 2018년도 영어영문학과 입학 후, 빅데이터전공으로 소속 변경
+        </item>
+        <item>
+            -웹 프로그래밍 수업이 인상적이었음.\n
+            -이를 복습해보고 싶어 온라인게임의 단체를 소개하는 작은 홈페이지를 제작함.\n
+            -나름 스스로 제작한 첫 결과물.\n
+            -gitHub주소는 하단에
+        </item>
+        <item>-FrontEnd 개발자\n
+            -Android 개발자\n
+            -BackEnd 개발자까지 되어 Full Stack 개발자까지\n
+            -IOS개발자 또한 도전해보고싶음
+        </item>
+    </string-array>
+
+</resources>
