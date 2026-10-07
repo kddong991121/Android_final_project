@@ -41,9 +41,11 @@
 
 ## 📱 주요 화면 (Screenshots)
 
-| 로딩 화면 (Lottie) | 메인 (접힌 상태) | 상세 보기 (펴진 상태) |
+| 인트로 화면 | 메인 (접힌 상태) | 상세 보기 (펴진 상태) |
 | :---: | :---: | :---: |
-| *(Lottie 애니메이션)* | *(자기 소개, 포트폴리오, 희망 직종)* | *(화살표 회전 및 상세 정보 출력)* |
+| <img src="screenshots/01_intro.jpg" width="220"> | <img src="screenshots/02_main_collapsed.jpg" width="220"> | <img src="screenshots/03_main_expanded.jpg" width="220"> |
+
+🎬 [시연 영상 보기](screenshots/demo.mp4) · 📄 [발표 자료 (PDF)](docs/스마트포트폴리오_발표자료.pdf)
 
 ---
 
